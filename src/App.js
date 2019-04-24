@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import BusinessList from './components/BusinessList/BusinessList';
 import SearchBar from './components/SearchBar/SearchBar';
-import Yelp from '.util/Yelp/Yelp';
+import Yelp from './util/Yelp';
 
 class App extends Component {
   constructor(props) {
